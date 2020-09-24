@@ -21,6 +21,7 @@ namespace ProAndreu
         {
             //Toto je pro KOA
             MessageBox.Show("Pozdrav");
+            //*
         }
 
         private void button2_Click(object sender, EventArgs e)
